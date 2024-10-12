@@ -15,7 +15,7 @@ const pool = new Pool({
     host: 'dpg-cs53vh23esus73aorsf0-a',         // Replace with your PostgreSQL host
     user: 'vacancy_db_jwn3_user',     // Replace with your PostgreSQL username
     password: 'L0pbn9TKeNBX8ZxGT4bNjRrRJpDxgTMy',  // Replace with your PostgreSQL password
-    database: 'vacancy_db',    // Your database name
+    database: 'vacancy_db_jwn3',    // Your database name
     port: 5432,                 // Default PostgreSQL port
     ssl: {
         rejectUnauthorized: false // Required for secure connections on Render
